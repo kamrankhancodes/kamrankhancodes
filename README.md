@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Shahid, a full-time full-stack freelance developer 👨‍💻 working remotely since 2014 🚀</div>  
+### <div align="center">I'm Kamran, a full-time full-stack freelance developer 👨‍💻 working remotely since 2014 🚀</div>  
   
 
 -   
