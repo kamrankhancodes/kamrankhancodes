@@ -1,26 +1,11 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
-
-### <div align="center">I'm Kamran, a full-time full-stack freelance developer 👨‍💻 working remotely since 2014 🚀</div>  
-  
-
--   
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
+### <div align="center">I'm Kamran Kiyani, a full-time, full-stack Web developer 👨‍💻 working remotely since 2018 🚀</div>  
+- 🌱 I’m currently learning Python and Django  
+- ❓ Ask me about anything related to UI/UX, PHP, WordPress, Shopify and related technologies.  
 - ⚡ Fun fact: I use tabs over spaces  
-  
-
 <br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
